@@ -1,5 +1,7 @@
 # Phase-1-project
 
+### By Everlyn Njeri 13/10/2023
+
 ## Demo
 
 <!-- ![Flatdango Demo-when page loads](./assets/flatdango_ui_2.png "Buy tickets Demo") -->
