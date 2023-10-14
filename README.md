@@ -4,8 +4,8 @@
 
 ## Demo
 
-<!-- ![Flatdango Demo-when page loads](./assets/flatdango_ui_2.png "Buy tickets Demo") -->
-<!-- ![Flatdango Demo](./assets/flatdango_ui.png " Sold out Demo") -->
+![Flatdango Demo-when page loads](./assets/demo-art-museum.png "Buy tickets Demo")
+
 
 This Project, Art Museum, allows a user to view art pieces and search for art.
 
