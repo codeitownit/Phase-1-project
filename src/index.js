@@ -1,5 +1,5 @@
 //DOMContentLoaded event is fired
-document.addEventListener("DOMContentLoaded", ()=>{
+window.addEventListener("load", ()=>{
     fetchAllArt();
     searchAllArt();
 })
