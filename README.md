@@ -9,7 +9,7 @@
 
 This Project, Art Museum, allows a user to view art pieces and search for art. This app uses the Art Institute of Chicago [Public API](https://api.artic.edu/docs "View Docs").
 
-The user can:
+As a user I can:
 
 * View various pieces of artwork when the page loads.
 * Search for art pieces based on the artwork type, artwork name or artist.
