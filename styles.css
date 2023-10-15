@@ -1,3 +1,4 @@
+/*global styles start*/
 body{
     text-align: center;
     margin-top: 0;
@@ -28,8 +29,9 @@ img{
  height: 80%;  
  padding: 5px; 
 }
+/*global styles end*/
 
-
+/*search start*/
 .search-container{
     width: 20%;
     color: white;
@@ -64,6 +66,9 @@ img{
     color: white;
     border: none;
 }
+/*search end*/
+
+/*art display start*/
 .wrapper{
     font-size: 1rem;
     display: block;
@@ -75,9 +80,7 @@ img{
     padding-bottom: 50px;
     background-repeat: no-repeat;
     background-position: 50% 50%;
-    overflow: hidden
-
-    
+    overflow: hidden 
 }
 .wrapper img{
     display: block;
@@ -102,11 +105,13 @@ img{
     color:#808087;
     font-size: 50px;
 }
+/*art display end*/
 
+/*footer*/
 footer{
     background-color: #BA704F;
     padding: 50px 0 20px;
-    margin: 100px 0 0 auto;
+    margin: 900px 0 0 auto;
     color: #fff;
     text-align: center;
 }
