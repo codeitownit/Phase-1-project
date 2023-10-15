@@ -90,6 +90,18 @@ img{
     background-position: 50% 50%;
     overflow: hidden
 }
+.clicked-wrapper h6{
+    margin-top: 50px;
+    font-size: 50px;
+    font-weight: 500;
+}
+.clicked-wrapper p{
+    font-size: larger;
+}
+.artist-text{
+    color:#808087;
+    font-size: 50px;
+}
 
 footer{
     background-color: #BA704F;
