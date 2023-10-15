@@ -132,5 +132,9 @@ function displaySearchData(info){
     wrapper.appendChild(h6)
     wrapper.appendChild(p);
     div.appendChild(wrapper);
+    wrapper.addEventListener("click", ()=>{
+        clickedArt = info;
+        showClickedArt(info);
+    });
 }
 

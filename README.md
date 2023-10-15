@@ -5,6 +5,7 @@
 ## Demo
 
 ![ Demo-when page loads](./assets/demo-art-museum.png "Art museum Demo")
+![ Demo-art details](./assets/art-details-demo.png "Art museum Demo")
 
 
 This Project, Art Museum, allows a user to view art pieces and search for art. This app uses the Art Institute of Chicago [Public API](https://api.artic.edu/docs "View Docs").
@@ -13,6 +14,7 @@ As a user I can:
 
 * View various pieces of artwork when the page loads.
 * Search for art pieces based on the artwork type, artwork name or artist.
+* Click on a single artwork to see the artwork detail information.
 
 ## Live Demo
 
