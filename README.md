@@ -1,4 +1,4 @@
-# Phase-1-project-Art Museum
+# Art Museum
 
 ### By Everlyn Njeri 13/10/2023
 
@@ -16,7 +16,7 @@ As a user I can:
 
 ## Live Demo
 
-Click [here](https://git-scm.com/downloads "Download Git") to view the app.
+Click [here](https://codeitownit.github.io/Phase-1-project "here") to view the app.
   
 
 
