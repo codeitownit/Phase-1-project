@@ -49,6 +49,8 @@ function displayAllArt(art){
     });
     
 }
+
+//displays the clicked artwork details
 function showClickedArt(art){
     div.innerHTML = "";
     const clickedWrapper = document.createElement("div");
