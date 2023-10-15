@@ -14,7 +14,7 @@ As a user I can:
 
 * View various pieces of artwork when the page loads.
 * Search for art pieces based on the artwork type, artwork name or artist.
-* Click on a single artwork to see the artwork detail information.
+* Click on a single artwork to see the artwork details information.
 
 ## Live Demo
 
