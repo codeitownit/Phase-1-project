@@ -7,7 +7,7 @@
 ![ Demo-when page loads](./assets/demo-art-museum.png "Art museum Demo")
 
 
-This Project, Art Museum, allows a user to view art pieces and search for art. This app uses the Art Institute of Chicago [Public API](https://api.artic.edu/docs/) "View Docs").
+This Project, Art Museum, allows a user to view art pieces and search for art. This app uses the Art Institute of Chicago [Public API](https://api.artic.edu/docs "View Docs").
 
 The user can:
 
