@@ -58,8 +58,8 @@ img{
 }
 .submit-btn{
     position: absolute;
-    left: 85%;
-    top: 10%;
+    left: 450px;
+    top: 1px;
     background:transparent;
     color: white;
     border: none;
@@ -90,12 +90,7 @@ img{
     background-position: 50% 50%;
     overflow: hidden
 }
-.first-section{
-    display: flex;
-    justify-content: space-evenly;
-    margin-bottom: 20px;
-    border: #f6f6f6 1px solid;
-}
+
 footer{
     background-color: #BA704F;
     padding: 50px 0 20px;
